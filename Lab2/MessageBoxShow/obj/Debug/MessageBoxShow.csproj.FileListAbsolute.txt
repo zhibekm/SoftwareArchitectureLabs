@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\MessageBoxShow\bin\Debug\MessageBoxShow.exe.config
+C:\Users\User\Desktop\MessageBoxShow\bin\Debug\MessageBoxShow.exe
+C:\Users\User\Desktop\MessageBoxShow\bin\Debug\MessageBoxShow.pdb
+C:\Users\User\Desktop\MessageBoxShow\obj\Debug\MessageBoxShow.Form1.resources
+C:\Users\User\Desktop\MessageBoxShow\obj\Debug\MessageBoxShow.Properties.Resources.resources
+C:\Users\User\Desktop\MessageBoxShow\obj\Debug\MessageBoxShow.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MessageBoxShow\obj\Debug\MessageBoxShow.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MessageBoxShow\obj\Debug\MessageBoxShow.exe
+C:\Users\User\Desktop\MessageBoxShow\obj\Debug\MessageBoxShow.pdb

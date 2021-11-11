@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Cal2\bin\Debug\Cal2.exe.config
+C:\Users\User\Desktop\Cal2\bin\Debug\Cal2.exe
+C:\Users\User\Desktop\Cal2\bin\Debug\Cal2.pdb
+C:\Users\User\Desktop\Cal2\obj\Debug\Cal2.Form1.resources
+C:\Users\User\Desktop\Cal2\obj\Debug\Cal2.Properties.Resources.resources
+C:\Users\User\Desktop\Cal2\obj\Debug\Cal2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Cal2\obj\Debug\Cal2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cal2\obj\Debug\Cal2.exe
+C:\Users\User\Desktop\Cal2\obj\Debug\Cal2.pdb
