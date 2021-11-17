@@ -1,0 +1,11 @@
+C:\Users\klmart\Desktop\Aiym\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\klmart\Desktop\Aiym\Lab9\bin\Debug\Lab9.exe
+C:\Users\klmart\Desktop\Aiym\Lab9\bin\Debug\Lab9.pdb
+C:\Users\klmart\Desktop\Aiym\Lab9\obj\Debug\Lab9.Form1.resources
+C:\Users\klmart\Desktop\Aiym\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+C:\Users\klmart\Desktop\Aiym\Lab9\obj\Debug\Lab9.csproj.GenerateResource.cache
+C:\Users\klmart\Desktop\Aiym\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\klmart\Desktop\Aiym\Lab9\obj\Debug\Lab9.exe
+C:\Users\klmart\Desktop\Aiym\Lab9\obj\Debug\Lab9.pdb
+C:\Users\klmart\Desktop\Aiym\Lab9\obj\Debug\Lab9.csproj.AssemblyReference.cache
+C:\Users\klmart\Desktop\Aiym\Lab9\obj\Debug\Lab9.Form2.resources
