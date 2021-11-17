@@ -1,0 +1,10 @@
+C:\Users\klmart\Desktop\Aiym\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\klmart\Desktop\Aiym\Lab12\bin\Debug\Lab12.exe
+C:\Users\klmart\Desktop\Aiym\Lab12\bin\Debug\Lab12.pdb
+C:\Users\klmart\Desktop\Aiym\Lab12\obj\Debug\Lab12.csproj.AssemblyReference.cache
+C:\Users\klmart\Desktop\Aiym\Lab12\obj\Debug\Lab12.Form1.resources
+C:\Users\klmart\Desktop\Aiym\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+C:\Users\klmart\Desktop\Aiym\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+C:\Users\klmart\Desktop\Aiym\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\klmart\Desktop\Aiym\Lab12\obj\Debug\Lab12.exe
+C:\Users\klmart\Desktop\Aiym\Lab12\obj\Debug\Lab12.pdb
