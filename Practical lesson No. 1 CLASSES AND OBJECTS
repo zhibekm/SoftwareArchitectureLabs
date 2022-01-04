@@ -1,0 +1,37 @@
+
+using System;
+class GFG{
+
+static int maxDiagonalSum(int [,]arr, int N)
+{
+int maxSum = 0;
+for(int i = 0; i < N; i++)
+{
+	int row = 0, col = i;
+	int sum1 = 0, sum2 = 0;
+	while (col < N && row < N)
+	{
+	sum1 += arr[row,col];
+	sum2 += arr[col,row];
+	row++;
+	col++;
+	}
+
+	maxSum = Math.Max(maxSum,
+			Math.Max(sum1,
+					sum2));
+}
+return maxSum;
+}
+
+public static void Main(String[] args)
+{
+int [,]mat = {{1, 2, 5, 7},
+				{2, 6, 7, 3},
+				{12, 3, 2, 4},
+				{3, 6, 9, 4}};
+int N = mat.GetLength(0);
+
+Console.WriteLine(maxDiagonalSum(mat, N));
+}
+}
